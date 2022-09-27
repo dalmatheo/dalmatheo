@@ -34,5 +34,5 @@ I'll set some projects right here later.
 <h2 align="center" id="stats">Some stats</h2>
 <p align="center">
   <a href="https://github.com/dalmatheo"><img src="https://github-readme-stats.vercel.app/api/?username=dalmatheo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"></a><br>
-  <a href="https://github.com/dalmatheo"><img href="https://github.com/dalmatheo" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalmatheo&layout=compact)](https://github.com/anuraghazra/github-readme-stats&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"></a>
+  <a href="https://github.com/dalmatheo"><img href="https://github.com/dalmatheo" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalmatheo&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"></a>
 </p>
