@@ -28,7 +28,3 @@ I am passionate about development and the broad field of IT, including Homelabin
 | 📞 Phone | [`+33 6 64 45 71 44`](tel:+33664457144) |
 
 ***
-
-<div align="center">
-  <a href="https://github.com/dalmatheo"><img src="https://github-readme-stats-xs0u-qq85lee11-dalmatheos-projects.vercel.app/api/?username=dalmatheo&show_icons=true&title_color=79ff97&icon_color=79ff97&text_color=9f9f9f&count_private=true&theme=transparent&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Github Stats"></a>
-</div>
